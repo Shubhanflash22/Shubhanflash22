@@ -251,15 +251,15 @@ Just copy one of the collapsible `<details>` sections above, update the title, d
 | MATH F242 | OPERATIONS RESEARCH                | B     |
 | MATH F243 | GRAPHS AND NETWORKS                | B     |
 | MATH F244 | MEASURE & INTEGRATION              | CLR   |
-| MATH F353 | STATISTICAL INFER & APP            | A-    |
 | MATH F311 | INTRODUCTION TO TOPOLOGY           | C     |
 | MATH F312 | ORDINARY DIFF EQUATIONS            | A-    |
 | MATH F313 | NUMERICAL ANALYSIS                 | C     |
 | MATH F341 | INTRO TO FUNCTIONAL ANAL           | C     |
 | MATH F342 | DIFFERENTIAL GEOMETRY              | A-    |
 | MATH F343 | PARTIAL DIFF EQUATIONS             | B     |
-| MATH F432 | APPLIED STATISTICAL METHODS        | B     |
+| MATH F353 | STATISTICAL INFER & APP            | A-    |
 | MATH F366 | LABORATORY PROJECT                 | A     |
+| MATH F432 | APPLIED STATISTICAL METHODS        | B     |
 
 <!-- BITS Courses -->
 | BITS F110 | ENGINEERING GRAPHICS               | B     |
@@ -284,8 +284,6 @@ Just copy one of the collapsible `<details>` sections above, update the title, d
 | BIO F111  | GENERAL BIOLOGY                    | C-    |
 | GS F234   | DEVELOPMENT ECONOMICS              | B-    |
 | HSS F248  | INTRODUCTION TO DISABILITY STUDIES | B-    |
-
-</details>
 
 </details>
 
