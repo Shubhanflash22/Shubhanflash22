@@ -276,6 +276,8 @@ Just copy one of the collapsible `<details>` sections above, update the title, d
 | BITS F412 | PRACTICE SCHOOL II                 | A     |
 | BITS F413 | PRACTICE SCHOOL II                 | A     |
 
+| Total GPA |                                    | 8.48  |
+
 </details>
 
 <details>
