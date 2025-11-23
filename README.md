@@ -259,7 +259,7 @@ Just copy one of the collapsible `<details>` sections above, update the title, d
 | BITS F112 | TECHNICAL REPORT WRITING           | A-    |
 | BITS F221 | PRACTICE SCHOOL I                  | A     |
 | BITS F225 | ENVIRONMENTAL STUDIES              | GD    |
-| BITS F232 | FOUNDATIONS OF DATA STRUCTURES & ALGORITHMS      | B     |
+| BITS F232 | FOUNDATIONS OF DSA      | B     |
 | BITS F314 | GAME THEORY AND ITS APPLICATIONS   | A     |
 | BITS F385 | INTRODUCTION TO GENDER STUDIES            | A-    |
 | BITS F412 | PRACTICE SCHOOL II                 | A     |
