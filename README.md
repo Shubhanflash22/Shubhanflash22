@@ -210,82 +210,93 @@ Just copy one of the collapsible `<details>` sections above, update the title, d
 ## 🎓 Courses & Grades
 
 <details>
-<summary>Click to expand BITS Courses (GPA - <b>8.48 out of 10</b>)</summary>
+<summary>Click to expand BITS Courses (GPA - <b>8.48 out of 10.00</b>)</summary>
 
 | Code      | Course                             | Grade |
 | --------- | ---------------------------------- | ----- |
-| CHEM F110 | CHEMISTRY LABORATORY               | A     |
-| CHEM F111 | GENERAL CHEMISTRY                  | B-    |
-| EEE F111  | ELECTRICAL SCIENCES                | B-    |
-| MATH F111 | MATHEMATICS I                      | B-    |
-| ME F110   | WORKSHOP PRACTICE                  | B     |
-| PHY F110  | PHYSICS LABORATORY                 | A     |
-| PHY F111  | MECH OSCILLATIONS & WAVE           | C     |
-| BIO F110  | BIOLOGY LABORATORY                 | A     |
-| BIO F111  | GENERAL BIOLOGY                    | C-    |
-| BITS F110 | ENGINEERING GRAPHICS               | B     |
-| BITS F111 | THERMODYNAMICS                     | B     |
-| BITS F112 | TECHNICAL REPORT WRITING           | A-    |
+
+<!-- CS Courses -->
 | CS F111   | COMPUTER PROGRAMMING               | B     |
+| CS F213   | OBJECT ORIENTED PROG               | B     |
+| CS F372   | OPERATING SYSTEMS                  | A-    |
+
+<!-- EEE Courses -->
+| EEE F111  | ELECTRICAL SCIENCES                | B-    |
+| EEE F211  | ELECTRICAL MACHINES                | B     |
+| EEE F212  | ELECTROMAGNETIC THEO               | A-    |
+| EEE F214  | ELECTRONIC DEVICES                 | B-    |
+| EEE F215  | DIGITAL DESIGN                     | A-    |
+| EEE F241  | MICROPROC & INTERFACING            | B-    |
+| EEE F242  | CONTROL SYSTEMS                    | B     |
+| EEE F243  | SIGNALS & SYSTEMS                  | A-    |
+| EEE F244  | MICROELECTRONIC CIRCUITS           | B     |
+| EEE F311  | COMMUNICATION SYSTEMS              | A-    |
+| EEE F312  | POWER SYSTEMS                      | B     |
+| EEE F313  | ANALOG & DIGIT VLSI DES            | A-    |
+| EEE F341  | ANALOG ELECTRONICS                 | A-    |
+| EEE F342  | POWER ELECTRONICS                  | B     |
+| EEE F376  | DESIGN PROJECT                     | A     |
+| EEE F424  | SMART GRID FOR SUSTAIN ENERGY      | A     |
+
+<!-- MATH Courses -->
+| MATH F111 | MATHEMATICS I                      | B-    |
 | MATH F112 | MATHEMATICS II                     | B     |
 | MATH F113 | PROBABILITY & STATISTICS           | B     |
-| BITS F225 | ENVIRONMENTAL STUDIES              | GD    |
-| BITS F385 | INTRO TO GENDER STUDIES            | A-    |
-| GS F234   | DEVELOPMENT ECONOMICS              | B-    |
 | MATH F211 | MATHEMATICS III                    | B     |
 | MATH F212 | OPTIMIZATION                       | A-    |
 | MATH F213 | DISCRETE MATHEMATICS               | B-    |
 | MATH F214 | ELEMENTARY REAL ANALYSIS           | B-    |
 | MATH F215 | ALGEBRA I                          | A-    |
-| HSS F248  | INTRODUCTION TO DISABILITY STUDIES | B-    |
 | MATH F241 | MATHEMATICAL METHODS               | A     |
 | MATH F242 | OPERATIONS RESEARCH                | B     |
 | MATH F243 | GRAPHS AND NETWORKS                | B     |
 | MATH F244 | MEASURE & INTEGRATION              | CLR   |
 | MATH F353 | STATISTICAL INFER & APP            | A-    |
-| MGTS F211 | PRINCIPLES OF MANAGEMENT           | B-    |
-| BITS F221 | PRACTICE SCHOOL I                  | A     |
-| EEE F211  | ELECTRICAL MACHINES                | B     |
-| EEE F212  | ELECTROMAGNETIC THEO               | A-    |
-| EEE F214  | ELECTRONIC DEVICES                 | B-    |
-| EEE F215  | DIGITAL DESIGN                     | A-    |
 | MATH F311 | INTRODUCTION TO TOPOLOGY           | C     |
 | MATH F312 | ORDINARY DIFF EQUATIONS            | A-    |
 | MATH F313 | NUMERICAL ANALYSIS                 | C     |
-| BITS F314 | GAME THEORY AND ITS APPLICATIONS   | A     |
-| EEE F241  | MICROPROC & INTERFACING            | B-    |
-| EEE F242  | CONTROL SYSTEMS                    | B     |
-| EEE F243  | SIGNALS & SYSTEMS                  | A-    |
-| EEE F244  | MICROELECTRONIC CIRCUITS           | B     |
 | MATH F341 | INTRO TO FUNCTIONAL ANAL           | C     |
 | MATH F342 | DIFFERENTIAL GEOMETRY              | A-    |
 | MATH F343 | PARTIAL DIFF EQUATIONS             | B     |
-| BITS F232 | FOUNDAT OF DATA STRUCT & ALGO      | B     |
-| BITS F464 | MACHINE LEARNING                   | B-    |
-| EEE F311  | COMMUNICATION SYSTEMS              | A-    |
-| EEE F313  | ANALOG & DIGIT VLSI DES            | A-    |
-| EEE F424  | SMART GRID FOR SUSTAIN ENERGY      | A     |
 | MATH F432 | APPLIED STATISTICAL METHODS        | B     |
-| CS F213   | OBJECT ORIENTED PROG               | B     |
-| CS F372   | OPERATING SYSTEMS                  | A-    |
-| EEE F312  | POWER SYSTEMS                      | B     |
-| EEE F341  | ANALOG ELECTRONICS                 | A-    |
-| EEE F342  | POWER ELECTRONICS                  | B     |
-| EEE F376  | DESIGN PROJECT                     | A     |
 | MATH F366 | LABORATORY PROJECT                 | A     |
+
+<!-- BITS Courses -->
+| BITS F110 | ENGINEERING GRAPHICS               | B     |
+| BITS F111 | THERMODYNAMICS                     | B     |
+| BITS F112 | TECHNICAL REPORT WRITING           | A-    |
+| BITS F221 | PRACTICE SCHOOL I                  | A     |
+| BITS F225 | ENVIRONMENTAL STUDIES              | GD    |
+| BITS F232 | FOUNDAT OF DATA STRUCT & ALGO      | B     |
+| BITS F314 | GAME THEORY AND ITS APPLICATIONS   | A     |
+| BITS F385 | INTRO TO GENDER STUDIES            | A-    |
 | BITS F412 | PRACTICE SCHOOL II                 | A     |
 | BITS F413 | PRACTICE SCHOOL II                 | A     |
+| BITS F464 | MACHINE LEARNING                   | B-    |
+
+<!-- Others -->
+| CHEM F110 | CHEMISTRY LABORATORY               | A     |
+| CHEM F111 | GENERAL CHEMISTRY                  | B-    |
+| ME F110   | WORKSHOP PRACTICE                  | B     |
+| PHY F110  | PHYSICS LABORATORY                 | A     |
+| PHY F111  | MECH OSCILLATIONS & WAVE           | C     |
+| BIO F110  | BIOLOGY LABORATORY                 | A     |
+| BIO F111  | GENERAL BIOLOGY                    | C-    |
+| GS F234   | DEVELOPMENT ECONOMICS              | B-    |
+| HSS F248  | INTRODUCTION TO DISABILITY STUDIES | B-    |
+
+</details>
 
 </details>
 
 <details>
-<summary>Click to expand UCSD Courses (GPA - <b>4.00 out of 4</b>)</summary>
+<summary>Click to expand UCSD Courses (GPA - <b>4.00 out of 4.00</b>)</summary>
 
 | Code     | Course                       | Grade |
 | -------- | ---------------------------- | ----- |
-| ECE 271A | Statistical Learning 1       | A     |
 | ECE 148  | Intro to Autonomous Vehicles | A     |
 | ECE 225A | Prob Stats for Data Science  | A     |
+| ECE 271A | Statistical Learning 1       | A     |
 
 </details>
 
