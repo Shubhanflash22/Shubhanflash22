@@ -211,16 +211,12 @@ Just copy one of the collapsible `<details>` sections above, update the title, d
 
 <details>
 <summary>Click to expand BITS Courses (GPA - <b>8.48 out of 10.00</b>)</summary>
-
+  
 | Code      | Course                             | Grade |
 | --------- | ---------------------------------- | ----- |
-
-<!-- CS Courses -->
 | CS F111   | COMPUTER PROGRAMMING               | B     |
 | CS F213   | OBJECT ORIENTED PROG               | B     |
 | CS F372   | OPERATING SYSTEMS                  | A-    |
-
-<!-- EEE Courses -->
 | EEE F111  | ELECTRICAL SCIENCES                | B-    |
 | EEE F211  | ELECTRICAL MACHINES                | B     |
 | EEE F212  | ELECTROMAGNETIC THEO               | A-    |
@@ -237,8 +233,6 @@ Just copy one of the collapsible `<details>` sections above, update the title, d
 | EEE F342  | POWER ELECTRONICS                  | B     |
 | EEE F376  | DESIGN PROJECT                     | A     |
 | EEE F424  | SMART GRID FOR SUSTAIN ENERGY      | A     |
-
-<!-- MATH Courses -->
 | MATH F111 | MATHEMATICS I                      | B-    |
 | MATH F112 | MATHEMATICS II                     | B     |
 | MATH F113 | PROBABILITY & STATISTICS           | B     |
@@ -260,8 +254,6 @@ Just copy one of the collapsible `<details>` sections above, update the title, d
 | MATH F353 | STATISTICAL INFER & APP            | A-    |
 | MATH F366 | LABORATORY PROJECT                 | A     |
 | MATH F432 | APPLIED STATISTICAL METHODS        | B     |
-
-<!-- BITS Courses -->
 | BITS F110 | ENGINEERING GRAPHICS               | B     |
 | BITS F111 | THERMODYNAMICS                     | B     |
 | BITS F112 | TECHNICAL REPORT WRITING           | A-    |
@@ -273,8 +265,6 @@ Just copy one of the collapsible `<details>` sections above, update the title, d
 | BITS F412 | PRACTICE SCHOOL II                 | A     |
 | BITS F413 | PRACTICE SCHOOL II                 | A     |
 | BITS F464 | MACHINE LEARNING                   | B-    |
-
-<!-- Others -->
 | CHEM F110 | CHEMISTRY LABORATORY               | A     |
 | CHEM F111 | GENERAL CHEMISTRY                  | B-    |
 | ME F110   | WORKSHOP PRACTICE                  | B     |
@@ -288,13 +278,19 @@ Just copy one of the collapsible `<details>` sections above, update the title, d
 </details>
 
 <details>
-<summary>Click to expand UCSD Courses (GPA - <b>4.00 out of 4.00</b>)</summary>
-
-| Code     | Course                       | Grade |
-| -------- | ---------------------------- | ----- |
-| ECE 148  | Intro to Autonomous Vehicles | A     |
-| ECE 225A | Prob Stats for Data Science  | A     |
-| ECE 271A | Statistical Learning 1       | A     |
+<summary>Click to expand UCSD Courses (GPA - <b>TBD out of 4.00</b>)</summary>
+  
+| Code      | Course                             | Grade |
+| --------- | ---------------------------------- | ----- |
+| ECE 143  | PROGRAMMING FOR DATA ANALYSIS             | TBD     |
+| ECE 148   | INTRODUCTION TO AUTONOMOUS VEHICLES       | TBD     |
+| ECE 225A  | PROBABILITY AND STATISTICS FOR DATA SCIENCE        | TBD     |
+| ECE 269  | LINEAR ALGEBRA AND APPLICATIONS            | TBD     |
+| ECE 271A  | STATISTICAL LEARNING 1             | TBD     |
+| ECE 271B  | STATISTICAL LEARNING 2             | TBD     |
+| ECE 276A  | SENSING AND ESTIMATION IN ROBOTICS             | TBD     |
+| ECE 276B  | PLANNING AND LEARING IN ROBOTICS             | TBD     |
+| ECE 285  | DATA SCIENCE AND AI FOR SMART GRIDS             | TBD     |
 
 </details>
 
