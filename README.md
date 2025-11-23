@@ -215,24 +215,24 @@ Just copy one of the collapsible `<details>` sections above, update the title, d
 | Code      | Course                             | Grade |
 | --------- | ---------------------------------- | ----- |
 | CS F111   | COMPUTER PROGRAMMING               | B     |
-| CS F213   | OBJECT ORIENTED PROG               | B     |
+| CS F213   | OBJECT ORIENTED PROGRAMMING               | B     |
 | CS F372   | OPERATING SYSTEMS                  | A-    |
 | EEE F111  | ELECTRICAL SCIENCES                | B-    |
 | EEE F211  | ELECTRICAL MACHINES                | B     |
-| EEE F212  | ELECTROMAGNETIC THEO               | A-    |
+| EEE F212  | ELECTROMAGNETIC THEORY               | A-    |
 | EEE F214  | ELECTRONIC DEVICES                 | B-    |
 | EEE F215  | DIGITAL DESIGN                     | A-    |
-| EEE F241  | MICROPROC & INTERFACING            | B-    |
+| EEE F241  | MICROPROCESSORS & INTERFACING            | B-    |
 | EEE F242  | CONTROL SYSTEMS                    | B     |
 | EEE F243  | SIGNALS & SYSTEMS                  | A-    |
 | EEE F244  | MICROELECTRONIC CIRCUITS           | B     |
 | EEE F311  | COMMUNICATION SYSTEMS              | A-    |
 | EEE F312  | POWER SYSTEMS                      | B     |
-| EEE F313  | ANALOG & DIGIT VLSI DES            | A-    |
+| EEE F313  | ANALOG & DIGIT VLSI DESIGN            | A-    |
 | EEE F341  | ANALOG ELECTRONICS                 | A-    |
 | EEE F342  | POWER ELECTRONICS                  | B     |
 | EEE F376  | DESIGN PROJECT                     | A     |
-| EEE F424  | SMART GRID FOR SUSTAIN ENERGY      | A     |
+| EEE F424  | SMART GRID FOR SUSTAINABLE ENERGY      | A     |
 | MATH F111 | MATHEMATICS I                      | B-    |
 | MATH F112 | MATHEMATICS II                     | B     |
 | MATH F113 | PROBABILITY & STATISTICS           | B     |
@@ -244,14 +244,14 @@ Just copy one of the collapsible `<details>` sections above, update the title, d
 | MATH F241 | MATHEMATICAL METHODS               | A     |
 | MATH F242 | OPERATIONS RESEARCH                | B     |
 | MATH F243 | GRAPHS AND NETWORKS                | B     |
-| MATH F244 | MEASURE & INTEGRATION              | CLR   |
+| MATH F244 | MEASURE AND INTEGRATION              | CLR   |
 | MATH F311 | INTRODUCTION TO TOPOLOGY           | C     |
-| MATH F312 | ORDINARY DIFF EQUATIONS            | A-    |
+| MATH F312 | ORDINARY DIFFERENTIAL EQUATIONS            | A-    |
 | MATH F313 | NUMERICAL ANALYSIS                 | C     |
-| MATH F341 | INTRO TO FUNCTIONAL ANAL           | C     |
+| MATH F341 | INTRODUCTION TO FUNCTIONAL ANALYSIS           | C     |
 | MATH F342 | DIFFERENTIAL GEOMETRY              | A-    |
-| MATH F343 | PARTIAL DIFF EQUATIONS             | B     |
-| MATH F353 | STATISTICAL INFER & APP            | A-    |
+| MATH F343 | PARTIAL DIFFERENTIAL EQUATIONS             | B     |
+| MATH F353 | STATISTICAL INFERENCING & APPLICATIONS            | A-    |
 | MATH F366 | LABORATORY PROJECT                 | A     |
 | MATH F432 | APPLIED STATISTICAL METHODS        | B     |
 | BITS F110 | ENGINEERING GRAPHICS               | B     |
@@ -259,9 +259,9 @@ Just copy one of the collapsible `<details>` sections above, update the title, d
 | BITS F112 | TECHNICAL REPORT WRITING           | A-    |
 | BITS F221 | PRACTICE SCHOOL I                  | A     |
 | BITS F225 | ENVIRONMENTAL STUDIES              | GD    |
-| BITS F232 | FOUNDAT OF DATA STRUCT & ALGO      | B     |
+| BITS F232 | FOUNDATIONS OF DATA STRUCTURES & ALGORITHMS      | B     |
 | BITS F314 | GAME THEORY AND ITS APPLICATIONS   | A     |
-| BITS F385 | INTRO TO GENDER STUDIES            | A-    |
+| BITS F385 | INTRODUCTION TO GENDER STUDIES            | A-    |
 | BITS F412 | PRACTICE SCHOOL II                 | A     |
 | BITS F413 | PRACTICE SCHOOL II                 | A     |
 | BITS F464 | MACHINE LEARNING                   | B-    |
@@ -269,7 +269,7 @@ Just copy one of the collapsible `<details>` sections above, update the title, d
 | CHEM F111 | GENERAL CHEMISTRY                  | B-    |
 | ME F110   | WORKSHOP PRACTICE                  | B     |
 | PHY F110  | PHYSICS LABORATORY                 | A     |
-| PHY F111  | MECH OSCILLATIONS & WAVE           | C     |
+| PHY F111  | MECHANICAL OSCILLATIONS & WAVES           | C     |
 | BIO F110  | BIOLOGY LABORATORY                 | A     |
 | BIO F111  | GENERAL BIOLOGY                    | C-    |
 | GS F234   | DEVELOPMENT ECONOMICS              | B-    |
