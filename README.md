@@ -1,4 +1,8 @@
-# 💼 Shubhan Mital – Projects Portfolio
+# 💼 Shubhan Mital – Projects & Academic Portfolio
+
+• Email: [shubhanmital@gmail.com](mailto:shubhanmital@gmail.com) 
+• GitHub: [Shubhanflash22](https://github.com/Shubhanflash22) 
+• LinkedIn: [linkedin.com/in/shubhan-mital](https://www.linkedin.com/in/shubhan-mital/)
 
 ---
 
@@ -8,34 +12,32 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 ---
 
-## 📂 Table of Contents
+## 🛠 Skills Matrix
 
 <details>
 <summary>Click to expand</summary>
 
-1. [⚡ Optimization of Renewable Energy Storage – ML & DL](#-optimization-of-renewable-energy-storage-–-ml--dl)
-2. [🌬️ Power Electronic Converters in Wind Generators – MATLAB Simulink](#-power-electronic-converters-in-wind-generators-–-matlab-simulink)
-3. [💨 Wind Generation Forecasting – R](#-wind-generation-forecasting-–-r)
-4. [🧬 Predict Cancer – Machine Learning](#-predict-cancer-–-machine-learning)
-5. [⌚ Human Activity Sensor for Smartwatches – ML](#-human-activity-sensor-for-smartwatches-–-ml)
-6. [⏱️ Predict Waiting Time in Queuing Systems – ML & DL](#-predict-waiting-time-in-queuing-systems-–-ml--dl)
-7. [🖥️ Client-Server System – Operating Systems in C](#-client-server-system-–-operating-systems-in-c)
-8. [🔢 Matrix Calculations – Operating Systems in C](#-matrix-calculations-–-operating-systems-in-c)
-9. [📊 Implicit Finite Difference Scheme – Python + MATLAB](#-implicit-finite-difference-scheme-–-python--matlab)
-10. [🟢 1-Bit Full Adder – Analog & VLSI Design](#-1-bit-full-adder-–-analog--vlsi-design)
-11. [📖 Spell Checker & Dictionary Implementation – C++](#-spell-checker--dictionary-implementation-–-c)
-12. [🏎️ Pit Stop Strategy in Motorsports – Game Theory](#-pit-stop-strategy-in-motorsports-–-game-theory)
-13. [📅 Time Table Scheduler – Java](#-time-table-scheduler-–-java)
-14. [🔢 Mathematical Models – MATLAB](#-mathematical-models-–-matlab)
+| Category                        | Skills / Tools                                                                   |
+| ------------------------------- | -------------------------------------------------------------------------------- |
+| **Programming Languages**       | Python, Java, C, C++, Scala, R, MATLAB, SQL, ROS, Linux                          |
+| **Frameworks & Libraries**      | Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, Hugging Face            |
+| **AI/ML Techniques**            | Computer Vision, NLP, Deep Learning, Reinforcement Learning, Predictive Modeling |
+| **Robotics & Embedded Systems** | ROS2, OpenCV, Path Planning, Sensor Integration, Embedded C                      |
+| **Cloud & Tools**               | AWS (Lambda, S3, CloudFormation), Azure (Databricks, ADF, Functions), Snowflake  |
+| **Software Engineering**        | Full-stack development, CI/CD pipelines, ETL, Automation                         |
 
 </details>
 
 ---
 
-### ⚡ Optimization of Renewable Energy Storage – ML & DL
+## 📂 Projects Portfolio
 
 <details>
-<summary>Click to expand</summary>
+<summary>Click to expand for all projects</summary>
+
+---
+
+### ⚡ Optimization of Renewable Energy Storage – ML & DL
 
 **Jan 2023 – May 2023**
 
@@ -45,14 +47,9 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 **Tools:** Python, TensorFlow, PyTorch
 
-</details>
-
 ---
 
 ### 🌬️ Power Electronic Converters in Wind Generators – MATLAB Simulink
-
-<details>
-<summary>Click to expand</summary>
 
 **Jan 2023 – May 2023 (Ongoing)**
 
@@ -61,14 +58,9 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 **Tools:** MATLAB Simulink, Power Electronics Toolbox
 
-</details>
-
 ---
 
 ### 💨 Wind Generation Forecasting – R
-
-<details>
-<summary>Click to expand</summary>
 
 **Oct 2022 – Dec 2022**
 
@@ -78,14 +70,9 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 **Tools:** R, caret, e1071
 
-</details>
-
 ---
 
 ### 🧬 Predict Cancer – Machine Learning
-
-<details>
-<summary>Click to expand</summary>
 
 **Nov 2022 – Dec 2022**
 
@@ -95,14 +82,9 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 **Tools:** Python, Scikit-learn, Pandas, NumPy
 
-</details>
-
 ---
 
 ### ⌚ Human Activity Sensor for Smartwatches – ML
-
-<details>
-<summary>Click to expand</summary>
 
 **Oct 2022 – Nov 2022**
 
@@ -112,14 +94,9 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 **Tools:** Python, Scikit-learn, Pandas
 
-</details>
-
 ---
 
 ### ⏱️ Predict Waiting Time in Queuing Systems – ML & DL
-
-<details>
-<summary>Click to expand</summary>
 
 **Jan 2021 – May 2021**
 
@@ -129,14 +106,9 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 **Tools:** Python, Keras, TensorFlow
 
-</details>
-
 ---
 
 ### 🖥️ Client-Server System – Operating Systems in C
-
-<details>
-<summary>Click to expand</summary>
 
 **Mar 2023 – May 2023**
 
@@ -146,14 +118,9 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 **Tools:** C, POSIX threads, Shared Memory
 
-</details>
-
 ---
 
 ### 🔢 Matrix Calculations – Operating Systems in C
-
-<details>
-<summary>Click to expand</summary>
 
 **Jan 2023 – Mar 2023**
 
@@ -163,14 +130,9 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 **Tools:** C, POSIX, Multithreading
 
-</details>
-
 ---
 
 ### 📊 Implicit Finite Difference Scheme – Python + MATLAB
-
-<details>
-<summary>Click to expand</summary>
 
 **Jan 2023 – May 2023**
 
@@ -178,14 +140,9 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 **Tools:** Python, MATLAB
 
-</details>
-
 ---
 
 ### 🟢 1-Bit Full Adder – Analog & VLSI Design
-
-<details>
-<summary>Click to expand</summary>
 
 **Nov 2022 – Dec 2022**
 
@@ -195,14 +152,9 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 **Tools:** Cadence Virtuoso / LTSpice
 
-</details>
-
 ---
 
 ### 📖 Spell Checker & Dictionary Implementation – C++
-
-<details>
-<summary>Click to expand</summary>
 
 **Nov 2022 – Dec 2022**
 
@@ -211,14 +163,9 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 **Tools:** C++
 
-</details>
-
 ---
 
 ### 🏎️ Pit Stop Strategy in Motorsports – Game Theory
-
-<details>
-<summary>Click to expand</summary>
 
 **Mar 2022 – Apr 2022**
 
@@ -228,14 +175,9 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 **Tools:** Python, MATLAB
 
-</details>
-
 ---
 
 ### 📅 Time Table Scheduler – Java
-
-<details>
-<summary>Click to expand</summary>
 
 **Jan 2023 – May 2023**
 
@@ -245,20 +187,105 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 **Tools:** Java, Swing, MySQL
 
-</details>
-
 ---
 
 ### 🔢 Mathematical Models – MATLAB
-
-<details>
-<summary>Click to expand</summary>
 
 **Aug 2022 – Dec 2022**
 
 * Implemented **Piecewise Lagrange Linear and Quadratic approximations and interpolations**.
 
 **Tools:** MATLAB
+
+---
+
+**💡 Tip for Adding New Projects:**
+
+Just copy one of the collapsible `<details>` sections above, update the title, description, tools, and dates. Add it anywhere in the **Projects Portfolio** section. Everything will stay collapsible and clean.
+
+</details>
+
+---
+
+## 🎓 Courses & Grades
+
+<details>
+<summary>Click to expand BITS Courses</summary>
+
+| Code      | Course                             | Grade |
+| --------- | ---------------------------------- | ----- |
+| CHEM F110 | CHEMISTRY LABORATORY               | A     |
+| CHEM F111 | GENERAL CHEMISTRY                  | B-    |
+| EEE F111  | ELECTRICAL SCIENCES                | B-    |
+| MATH F111 | MATHEMATICS I                      | B-    |
+| ME F110   | WORKSHOP PRACTICE                  | B     |
+| PHY F110  | PHYSICS LABORATORY                 | A     |
+| PHY F111  | MECH OSCILLATIONS & WAVE           | C     |
+| BIO F110  | BIOLOGY LABORATORY                 | A     |
+| BIO F111  | GENERAL BIOLOGY                    | C-    |
+| BITS F110 | ENGINEERING GRAPHICS               | B     |
+| BITS F111 | THERMODYNAMICS                     | B     |
+| BITS F112 | TECHNICAL REPORT WRITING           | A-    |
+| CS F111   | COMPUTER PROGRAMMING               | B     |
+| MATH F112 | MATHEMATICS II                     | B     |
+| MATH F113 | PROBABILITY & STATISTICS           | B     |
+| BITS F225 | ENVIRONMENTAL STUDIES              | GD    |
+| BITS F385 | INTRO TO GENDER STUDIES            | A-    |
+| GS F234   | DEVELOPMENT ECONOMICS              | B-    |
+| MATH F211 | MATHEMATICS III                    | B     |
+| MATH F212 | OPTIMIZATION                       | A-    |
+| MATH F213 | DISCRETE MATHEMATICS               | B-    |
+| MATH F214 | ELEMENTARY REAL ANALYSIS           | B-    |
+| MATH F215 | ALGEBRA I                          | A-    |
+| HSS F248  | INTRODUCTION TO DISABILITY STUDIES | B-    |
+| MATH F241 | MATHEMATICAL METHODS               | A     |
+| MATH F242 | OPERATIONS RESEARCH                | B     |
+| MATH F243 | GRAPHS AND NETWORKS                | B     |
+| MATH F244 | MEASURE & INTEGRATION              | CLR   |
+| MATH F353 | STATISTICAL INFER & APP            | A-    |
+| MGTS F211 | PRINCIPLES OF MANAGEMENT           | B-    |
+| BITS F221 | PRACTICE SCHOOL I                  | A     |
+| EEE F211  | ELECTRICAL MACHINES                | B     |
+| EEE F212  | ELECTROMAGNETIC THEO               | A-    |
+| EEE F214  | ELECTRONIC DEVICES                 | B-    |
+| EEE F215  | DIGITAL DESIGN                     | A-    |
+| MATH F311 | INTRODUCTION TO TOPOLOGY           | C     |
+| MATH F312 | ORDINARY DIFF EQUATIONS            | A-    |
+| MATH F313 | NUMERICAL ANALYSIS                 | C     |
+| BITS F314 | GAME THEORY AND ITS APPLICATIONS   | A     |
+| EEE F241  | MICROPROC & INTERFACING            | B-    |
+| EEE F242  | CONTROL SYSTEMS                    | B     |
+| EEE F243  | SIGNALS & SYSTEMS                  | A-    |
+| EEE F244  | MICROELECTRONIC CIRCUITS           | B     |
+| MATH F341 | INTRO TO FUNCTIONAL ANAL           | C     |
+| MATH F342 | DIFFERENTIAL GEOMETRY              | A-    |
+| MATH F343 | PARTIAL DIFF EQUATIONS             | B     |
+| BITS F232 | FOUNDAT OF DATA STRUCT & ALGO      | B     |
+| BITS F464 | MACHINE LEARNING                   | B-    |
+| EEE F311  | COMMUNICATION SYSTEMS              | A-    |
+| EEE F313  | ANALOG & DIGIT VLSI DES            | A-    |
+| EEE F424  | SMART GRID FOR SUSTAIN ENERGY      | A     |
+| MATH F432 | APPLIED STATISTICAL METHODS        | B     |
+| CS F213   | OBJECT ORIENTED PROG               | B     |
+| CS F372   | OPERATING SYSTEMS                  | A-    |
+| EEE F312  | POWER SYSTEMS                      | B     |
+| EEE F341  | ANALOG ELECTRONICS                 | A-    |
+| EEE F342  | POWER ELECTRONICS                  | B     |
+| EEE F376  | DESIGN PROJECT                     | A     |
+| MATH F366 | LABORATORY PROJECT                 | A     |
+| BITS F412 | PRACTICE SCHOOL II                 | A     |
+| BITS F413 | PRACTICE SCHOOL II                 | A     |
+
+</details>
+
+<details>
+<summary>Click to expand UCSD Courses</summary>
+
+| Code     | Course                       | Grade |
+| -------- | ---------------------------- | ----- |
+| ECE 271A | Statistical Learning 1       | A     |
+| ECE 148  | Intro to Autonomous Vehicles | A     |
+| ECE 225A | Prob Stats for Data Science  | A     |
 
 </details>
 
