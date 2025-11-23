@@ -210,7 +210,7 @@ Just copy one of the collapsible `<details>` sections above, update the title, d
 ## 🎓 Courses & Grades
 
 <details>
-<summary>Click to expand BITS Courses</summary>
+<summary>Click to expand BITS Courses (GPA - <b>8.48 out of 10</b>)</summary>
 
 | Code      | Course                             | Grade |
 | --------- | ---------------------------------- | ----- |
@@ -276,12 +276,10 @@ Just copy one of the collapsible `<details>` sections above, update the title, d
 | BITS F412 | PRACTICE SCHOOL II                 | A     |
 | BITS F413 | PRACTICE SCHOOL II                 | A     |
 
-| Total GPA |                                    | 8.48  |
-
 </details>
 
 <details>
-<summary>Click to expand UCSD Courses</summary>
+<summary>Click to expand UCSD Courses (GPA - <b>4.00 out of 4</b>)</summary>
 
 | Code     | Course                       | Grade |
 | -------- | ---------------------------- | ----- |
