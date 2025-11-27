@@ -51,7 +51,7 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 ### 🌬️ Power Electronic Converters in Wind Generators – MATLAB Simulink
 
-**Jan 2023 – May 2023 (Ongoing)**
+**Jan 2023 – May 2023 **
 
 * Implemented **NPC converter** to increase output voltage vs. boost converter.
 * Implemented **MMC converter** to improve efficiency of wind generation.
