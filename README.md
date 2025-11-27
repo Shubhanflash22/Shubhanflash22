@@ -6,7 +6,7 @@
 
 ---
 
-I am a Master’s student in **Electrical and Computer Engineering at UC San Diego**, specializing in **Machine Learning and Data Science**. I hold a **B.E. in Electrical and Electronics Engineering and MSc. in Mathematics from BITS Pilani**, and have professional experience at **Amazon and Piramal Pharma**, where I contributed to **automation solutions, ML-based forecasting tools, and cloud-integrated data pipelines**, achieving measurable improvements in efficiency, accuracy, and operational resilience.
+I am a Master’s student in **Electrical and Computer Engineering at UC San Diego**, specializing in **Machine Learning and Data Science**. I hold a **B.E. in Electrical and Electronics Engineering and MSc. in Mathematics from BITS Pilani**, and have professional experience at **Amazon Development Center and Piramal Pharma Ltd.**, where I contributed to **automation solutions, ML-based forecasting tools, and cloud-integrated data pipelines**, achieving measurable improvements in efficiency, accuracy, and operational resilience.
 
 My research interests lie in leveraging **ML and Deep Learning to enhance efficiency, reliability, and sustainability** in energy systems. Key areas include **energy storage optimization, grid stability, predictive maintenance, and integration of distributed energy resources**. I have hands-on experience applying ANN, LSTM, and RNN models to optimize **Vanadium Redox Flow Batteries**, reducing power loss and operating costs. I am motivated to work in collaborative research environments to develop **data-driven solutions for smart grids, renewable integration, and energy system optimization**.
 
@@ -37,7 +37,7 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 ---
 
-### ⚡ Optimization of Renewable Energy Storage – ML & DL
+### ⚡ Optimization of Renewable Energy Storage (ML & DL)
 
 **Jan 2023 – May 2023**
 
@@ -49,7 +49,7 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 ---
 
-### 🌬️ Power Electronic Converters in Wind Generators – MATLAB Simulink
+### 🌬️ Power Electronic Converters in Wind Generators
 
 **Jan 2023 – May 2023 **
 
@@ -60,7 +60,7 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 ---
 
-### 💨 Wind Generation Forecasting – R
+### 💨 Wind Generation Forecasting
 
 **Oct 2022 – Dec 2022**
 
@@ -68,11 +68,11 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 * Used **BCD classifier + SVR** for non-stationarity and adaptability.
 * 48-hour predictions outperform persistence model.
 
-**Tools:** R, caret, e1071
+**Tools:** R
 
 ---
 
-### 🧬 Predict Cancer – Machine Learning
+### 🧬 Predict Cancer (ML)
 
 **Nov 2022 – Dec 2022**
 
@@ -84,7 +84,7 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 ---
 
-### ⌚ Human Activity Sensor for Smartwatches – ML
+### ⌚ Human Activity Sensor for Smartwatches (ML)
 
 **Oct 2022 – Nov 2022**
 
@@ -96,7 +96,7 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 ---
 
-### ⏱️ Predict Waiting Time in Queuing Systems – ML & DL
+### ⏱️ Predict Waiting Time in Queuing Systems (ML & DL)
 
 **Jan 2021 – May 2021**
 
@@ -108,7 +108,7 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 ---
 
-### 🖥️ Client-Server System – Operating Systems in C
+### 🖥️ Client-Server System (Operating Systems)
 
 **Mar 2023 – May 2023**
 
@@ -120,7 +120,7 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 ---
 
-### 🔢 Matrix Calculations – Operating Systems in C
+### 🔢 Matrix Calculations (Operating Systems)
 
 **Jan 2023 – Mar 2023**
 
@@ -132,7 +132,7 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 ---
 
-### 📊 Implicit Finite Difference Scheme – Python + MATLAB
+### 📊 Implicit Finite Difference Scheme
 
 **Jan 2023 – May 2023**
 
@@ -142,7 +142,7 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 ---
 
-### 🟢 1-Bit Full Adder – Analog & VLSI Design
+### 🟢 1-Bit Full Adder (Analog & VLSI Design)
 
 **Nov 2022 – Dec 2022**
 
@@ -150,11 +150,11 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 * Combined two half-adders into 1-bit full adder.
 * Optimized propagation delay and power efficiency.
 
-**Tools:** Cadence Virtuoso / LTSpice
+**Tools:** LTSpice
 
 ---
 
-### 📖 Spell Checker & Dictionary Implementation – C++
+### 📖 Spell Checker & Dictionary Implementation 
 
 **Nov 2022 – Dec 2022**
 
@@ -165,7 +165,7 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 ---
 
-### 🏎️ Pit Stop Strategy in Motorsports – Game Theory
+### 🏎️ Pit Stop Strategy in Motorsports(Game Theory)
 
 **Mar 2022 – Apr 2022**
 
@@ -177,7 +177,7 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 ---
 
-### 📅 Time Table Scheduler – Java
+### 📅 Time Table Scheduler
 
 **Jan 2023 – May 2023**
 
@@ -185,11 +185,11 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 * Members register as staff/students using BITS email.
 * Set personal availability and view availability of others.
 
-**Tools:** Java, Swing, MySQL
+**Tools:** Java, Intellij, MySQL
 
 ---
 
-### 🔢 Mathematical Models – MATLAB
+### 🔢 Mathematical Models
 
 **Aug 2022 – Dec 2022**
 
