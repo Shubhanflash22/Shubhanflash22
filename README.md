@@ -199,14 +199,6 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 ---
 
-**💡 Tip for Adding New Projects:**
-
-Just copy one of the collapsible `<details>` sections above, update the title, description, tools, and dates. Add it anywhere in the **Projects Portfolio** section. Everything will stay collapsible and clean.
-
-</details>
-
----
-
 ## 🎓 Courses & Grades
 
 <details>
