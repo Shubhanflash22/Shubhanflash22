@@ -54,7 +54,7 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 **Sept 2025 – Dec 2025**
 * 
 
-**Tools:** Python, Linux, ROS2, OpenCV, Path Planning, Sensor Integration, Embedded C, Computer Vision, Deep Learning, Roboflow, YOLO
+**Tools:** Python, Linux, ROS2, OpenCV, Path Planning, Sensor Integration, Embedded C, Computer Vision, Deep Learning, Roboflow, YOLO, Jetson Nano, Rasberry pi, LIDAR, GPS, VESC, DC-DC Convertor, Transformer
 
 ---
 ### ⚡ Optimization of Renewable Energy Storage (ML & DL)
