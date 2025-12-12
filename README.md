@@ -36,11 +36,8 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 <summary>Click to expand for all projects</summary>
 
 ---
-
 ### ⚡ Optimization of Renewable Energy Storage (ML & DL)
-
 **Jan 2023 – May 2023**
-
 * Modeled **ANN, LSTM, and RNN** to predict power loss at different states of charge and electrolyte flow rates.
 * Improved accuracy of existing models by **40–70%**.
 * Optimized energy storage systems for cost and efficiency.
@@ -48,9 +45,31 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 **Tools:** Python, TensorFlow, PyTorch
 
 ---
+### 🖥️ Client-Server System (Operating Systems)
+**Mar 2023 – May 2023**
+* POSIX-compliant multithreaded server with shared memory IPC.
+* Stateless client-server communication: register, request, response, unregister.
+* Logging of all intermediate states and request counts.
 
+**Tools:** C, POSIX threads, Shared Memory
+
+---
+### 🔢 Matrix Calculations (Operating Systems)
+**Jan 2023 – Mar 2023**
+* POSIX program for 2D matrix operations using 1-to-1 pipe between controller & workers.
+* Fork + multithreading for efficient row-wise calculation.
+* Handled errors and signals robustly.
+
+**Tools:** C, POSIX, Multithreading
+
+---
+### 📊 Implicit Finite Difference Scheme
+**Jan 2023 – May 2023**
+* Plotted central and implicit finite difference scheme results for 4 wave propagation speeds using **Richter wavelet**.
+**Tools:** Python, MATLAB
+
+---
 ### 🌬️ Power Electronic Converters in Wind Generators
-
 **Jan 2023 – May 2023**
 
 * Implemented **NPC converter** to increase output voltage vs. boost converter.
@@ -60,144 +79,8 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 ---
 
-### 💨 Wind Generation Forecasting
 
-**Oct 2022 – Dec 2022**
 
-* Developed ML model for wind power projections with superior accuracy vs. basic time series models.
-* Used **BCD classifier + SVR** for non-stationarity and adaptability.
-* 48-hour predictions outperform persistence model.
-
-**Tools:** R
-
----
-
-### 🧬 Predict Cancer (ML)
-
-**Nov 2022 – Dec 2022**
-
-* Aggregated 30+ feature variables, preprocessed, and analyzed patient data.
-* Baseline logistic regression improved with Decision Trees, Naïve Bayes, and **SVM**.
-* Achieved **>99% accuracy** after hyperparameter tuning.
-
-**Tools:** Python, Scikit-learn, Pandas, NumPy
-
----
-
-### ⌚ Human Activity Sensor for Smartwatches (ML)
-
-**Oct 2022 – Nov 2022**
-
-* Collected data from 30 smartwatch users.
-* Preprocessed and trained model to predict wearer activity with high accuracy.
-* Tested in real-world scenarios.
-
-**Tools:** Python, Scikit-learn, Pandas
-
----
-
-### ⏱️ Predict Waiting Time in Queuing Systems (ML & DL)
-
-**Jan 2021 – May 2021**
-
-* Neural network trained on bank queue data to predict waiting times (MAE: 2.68 minutes).
-* Verified queue-specific networks using web app simulator.
-* Generalizable to other industries.
-
-**Tools:** Python, Keras, TensorFlow
-
----
-
-### 🖥️ Client-Server System (Operating Systems)
-
-**Mar 2023 – May 2023**
-
-* POSIX-compliant multithreaded server with shared memory IPC.
-* Stateless client-server communication: register, request, response, unregister.
-* Logging of all intermediate states and request counts.
-
-**Tools:** C, POSIX threads, Shared Memory
-
----
-
-### 🔢 Matrix Calculations (Operating Systems)
-
-**Jan 2023 – Mar 2023**
-
-* POSIX program for 2D matrix operations using 1-to-1 pipe between controller & workers.
-* Fork + multithreading for efficient row-wise calculation.
-* Handled errors and signals robustly.
-
-**Tools:** C, POSIX, Multithreading
-
----
-
-### 📊 Implicit Finite Difference Scheme
-
-**Jan 2023 – May 2023**
-
-* Plotted central and implicit finite difference scheme results for 4 wave propagation speeds using **Richter wavelet**.
-
-**Tools:** Python, MATLAB
-
----
-
-### 🟢 1-Bit Full Adder (Analog & VLSI Design)
-
-**Nov 2022 – Dec 2022**
-
-* Designed half-adder using **NAND, NOR, Inverter** gates at transistor-level CMOS.
-* Combined two half-adders into 1-bit full adder.
-* Optimized propagation delay and power efficiency.
-
-**Tools:** LTSpice
-
----
-
-### 📖 Spell Checker & Dictionary Implementation 
-
-**Nov 2022 – Dec 2022**
-
-* Implemented **hash table-based spell checker**.
-* Corrects common errors: swap, insert, delete, replace characters.
-
-**Tools:** C++
-
----
-
-### 🏎️ Pit Stop Strategy in Motorsports(Game Theory)
-
-**Mar 2022 – Apr 2022**
-
-* Used game theory to predict optimal pit stops under dry, wet, and safety car conditions.
-* Calculated **Nash equilibria** and payoffs for different tyre strategies.
-* Applied model to real-life race scenarios.
-
-**Tools:** Python, MATLAB
-
----
-
-### 📅 Time Table Scheduler
-
-**Jan 2023 – May 2023**
-
-* Scheduler for BITS community to manage availability and meetings.
-* Members register as staff/students using BITS email.
-* Set personal availability and view availability of others.
-
-**Tools:** Java, Intellij, MySQL
-
----
-
-### 🔢 Mathematical Models
-
-**Aug 2022 – Dec 2022**
-
-* Implemented **Piecewise Lagrange Linear and Quadratic approximations and interpolations**.
-
-**Tools:** MATLAB
-
----
 
 ## 🎓 Courses & Grades
 
