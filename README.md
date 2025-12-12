@@ -36,6 +36,23 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 <summary>Click to expand for all projects</summary>
 
 ---
+### ⚡ Project of ECE 225A - Prob Stats for Data Science
+**Sept 2025 – Dec 2025**
+* 
+**Tools:** Python, Overleaf(Latex)
+
+---
+### ⚡ Projects of ECE 271A - Statistical Learning 1
+**Sept 2025 – Dec 2025**
+* 
+**Tools:** Matlab, Overleaf(Latex)
+
+---
+### ⚡ Project of ECE 148 - Introduction to Autonomous Vechicles
+**Sept 2025 – Dec 2025**
+* 
+**Tools:** Python, ROS, Linux
+---
 ### ⚡ Optimization of Renewable Energy Storage (ML & DL)
 **Jan 2023 – May 2023**
 * Modeled **ANN, LSTM, and RNN** to predict power loss at different states of charge and electrolyte flow rates.
