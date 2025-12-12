@@ -75,6 +75,7 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 ### 📊 Implicit Finite Difference Scheme
 **Jan 2023 – May 2023**
 * Plotted central and implicit finite difference scheme results for 4 wave propagation speeds using **Richter wavelet**.
+
 **Tools:** Python, MATLAB
 
 ---
@@ -86,6 +87,25 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 **Tools:** MATLAB Simulink, Power Electronics Toolbox
 
 ---
+### 🧬 Predict Cancer (ML)
+**Nov 2022 – Dec 2022**
+* Aggregated 30+ feature variables, preprocessed, and analyzed patient data.
+* Baseline logistic regression improved with Decision Trees, Naïve Bayes, and **SVM**.
+* Achieved **>99% accuracy** after hyperparameter tuning.
+
+**Tools:** Python, Scikit-learn, Pandas, NumPy
+
+---
+### ⌚ Human Activity Sensor for Smartwatches (ML)
+**Oct 2022 – Nov 2022**
+* Collected data from 30 smartwatch users.
+* Preprocessed and trained model to predict wearer activity with high accuracy.
+* Tested in real-world scenarios.
+
+**Tools:** Python, Scikit-learn, Pandas
+
+---
+
 
 
 
