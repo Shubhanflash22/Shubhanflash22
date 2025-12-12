@@ -63,6 +63,15 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 **Tools:** C, POSIX, Multithreading
 
 ---
+### 📅 Time Table Scheduler
+**Jan 2023 – May 2023**
+* Scheduler for BITS community to manage availability and meetings.
+* Members register as staff/students using BITS email.
+* Set personal availability and view availability of others.
+
+**Tools:** Java, Intellij, MySQL
+
+---
 ### 📊 Implicit Finite Difference Scheme
 **Jan 2023 – May 2023**
 * Plotted central and implicit finite difference scheme results for 4 wave propagation speeds using **Richter wavelet**.
@@ -71,7 +80,6 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 ---
 ### 🌬️ Power Electronic Converters in Wind Generators
 **Jan 2023 – May 2023**
-
 * Implemented **NPC converter** to increase output voltage vs. boost converter.
 * Implemented **MMC converter** to improve efficiency of wind generation.
 
