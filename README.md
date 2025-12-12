@@ -105,11 +105,58 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 **Tools:** Python, Scikit-learn, Pandas
 
 ---
+### 📖 Spell Checker & Dictionary Implementation 
+**Nov 2022 – Dec 2022**
+* Implemented **hash table-based spell checker**.
+* Corrects common errors: swap, insert, delete, replace characters.
 
+**Tools:** C++
 
+---
+### 💨 Wind Generation Forecasting
+**Oct 2022 – Dec 2022**
+* Developed ML model for wind power projections with superior accuracy vs. basic time series models.
+* Used **BCD classifier + SVR** for non-stationarity and adaptability.
+* 48-hour predictions outperform persistence model.
+  
+**Tools:** R
 
+---
 
+### 🟢 1-Bit Full Adder (Analog & VLSI Design)
+**Nov 2022 – Dec 2022**
+* Designed half-adder using **NAND, NOR, Inverter** gates at transistor-level CMOS.
+* Combined two half-adders into 1-bit full adder.
+* Optimized propagation delay and power efficiency.
 
+**Tools:** LTSpice
+
+---
+### 🔢 Mathematical Models
+**Aug 2022 – Dec 2022**
+* Implemented **Piecewise Lagrange Linear and Quadratic approximations and interpolations**.
+
+**Tools:** MATLAB
+
+---
+### 🏎️ Pit Stop Strategy in Motorsports(Game Theory)
+**Mar 2022 – Apr 2022**
+* Used game theory to predict optimal pit stops under dry, wet, and safety car conditions.
+* Calculated **Nash equilibria** and payoffs for different tyre strategies.
+* Applied model to real-life race scenarios.
+
+**Tools:** Python, MATLAB
+
+---
+### ⏱️ Predict Waiting Time in Queuing Systems (ML & DL)
+**Jan 2021 – May 2021**
+* Neural network trained on bank queue data to predict waiting times (MAE: 2.68 minutes).
+* Verified queue-specific networks using web app simulator.
+* Generalizable to other industries.
+
+**Tools:** Python, Keras, TensorFlow
+
+---
 ## 🎓 Courses & Grades
 
 <details>
