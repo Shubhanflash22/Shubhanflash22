@@ -1,4 +1,4 @@
-# 💼 Shubhan Mital – Projects & Academic Portfolio
+# Shubhan Mital – Projects & Academic Portfolio
 
 • Email: [shubhanmital@gmail.com](mailto:shubhanmital@gmail.com) 
 • GitHub: [Shubhanflash22](https://github.com/Shubhanflash22) 
