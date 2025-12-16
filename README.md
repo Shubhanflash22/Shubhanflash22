@@ -254,7 +254,7 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 | Code      | Course                             | Grade |
 | --------- | ---------------------------------- | ----- |
 | ECE 143  | PROGRAMMING FOR DATA ANALYSIS             | TBD     |
-| ECE 148   | INTRODUCTION TO AUTONOMOUS VEHICLES       | TBD     |
+| ECE 148   | INTRODUCTION TO AUTONOMOUS VEHICLES       | A      |
 | ECE 225A  | PROBABILITY AND STATISTICS FOR DATA SCIENCE        | TBD     |
 | ECE 269  | LINEAR ALGEBRA AND APPLICATIONS            | TBD     |
 | ECE 271A  | STATISTICAL LEARNING 1             | TBD     |
