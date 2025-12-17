@@ -31,6 +31,7 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 ---
 
 ## 📂 Projects Portfolio
+_Focus Areas: Machine Learning, Statistical Learning, Autonomous Systems, Energy Systems Optimization, Data-Driven Modeling_
 
 <details>
 <summary>Click to expand for all projects</summary>
@@ -56,14 +57,14 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 **Tools:** Matlab, Overleaf(Latex)
 
 ---
-### 🚗 Project of ECE 148 - Introduction to Autonomous Vechicles
+### 🚗 Project of ECE 148 - Introduction to Autonomous Vehicles
 **Sept 2025 – Dec 2025**
 * Designed an autonomous roadside mechanic that detects broken-down vehicles via blinking hazard lights and navigates to park safely behind them using multi-sensor fusion.
 * Implemented a ROS2-based distributed system with a Jetson Nano (bird’s-eye vision) and Raspberry Pi (on-vehicle perception & control) communicating through custom publish-subscribe nodes.
 * Trained and deployed a Roboflow/YOLO deep learning model (~90% accuracy) on an OAK-D camera to detect the rear of vehicles and compute angular offsets for PD-based navigation.
 * Integrated LiDAR-based distance estimation and vision-based control to enable precise stopping behavior behind the disabled vehicle while reducing false positives using HSV filtering, temporal analysis, and FFT-based blink detection.
 
-**Tools:** Python, Linux, ROS2, OpenCV, Path Planning, Sensor Integration, Embedded C, Computer Vision, Deep Learning, Roboflow, YOLO, Jetson Nano, Rasberry pi, LIDAR, GPS, VESC, DC-DC Convertor, Transformer
+**Tools:** Python, Linux, ROS2, OpenCV, Path Planning, Sensor Integration, Embedded C, Computer Vision, Deep Learning, Roboflow, YOLO, Jetson Nano, Raspberry Pi, LIDAR, GPS, VESC, DC-DC converter
 
 ---
 ### ⚡ Optimization of Renewable Energy Storage (ML & DL)
