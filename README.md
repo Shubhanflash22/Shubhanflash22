@@ -38,21 +38,30 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 ---
 ### 🎲 Project of ECE 225A - Prob Stats for Data Science
 **Sept 2025 – Dec 2025**
-* 
+* Built an end-to-end statistical learning pipeline to predict national happiness scores by integrating multi-source global datasets (World Happiness Report, World Bank, CO₂ emissions, population data).
+* Applied feature engineering and statistical validation, including factor analysis for maternal health indicators, VIF-based multicollinearity control, and Bonferroni correction for multiple hypothesis testing.
+* Trained and evaluated regression models (Ridge, Random Forest, Gradient Boosting), achieving R² = 0.88 and identifying key predictors such as social support, GDP per capita, and life expectancy.
+* Conducted rigorous exploratory data analysis and scaling comparisons (Standard, Robust, MinMax), extracting interpretable insights on economic, social, and environmental drivers of well-being.
 
 **Tools:** Python, Overleaf(Latex)
 
 ---
 ### 📉 Projects of ECE 271A - Statistical Learning 1
 **Sept 2025 – Dec 2025**
-* 
+* Implemented Bayesian classifiers for cheetah vs. grass image segmentation using DCT features, achieving minimum probability-of-error decisions via histogram-based and Gaussian models.
+* Modeled high-dimensional data with multivariate Gaussians (ML & MAP) and demonstrated the curse of dimensionality, reducing error from 5.52% (64D) to 3.11% (selected 8D features).
+* Developed fully Bayesian predictive classifiers with informative and neutral priors, showing improved robustness on small datasets and convergence behavior as sample size increased.
+* Trained Gaussian Mixture Models using Expectation-Maximization, analyzing initialization sensitivity and model complexity to identify an optimal bias–variance tradeoff (C = 8 components, ~4% error).
 
 **Tools:** Matlab, Overleaf(Latex)
 
 ---
 ### 🚗 Project of ECE 148 - Introduction to Autonomous Vechicles
 **Sept 2025 – Dec 2025**
-* 
+* Designed an autonomous roadside mechanic that detects broken-down vehicles via blinking hazard lights and navigates to park safely behind them using multi-sensor fusion.
+* Implemented a ROS2-based distributed system with a Jetson Nano (bird’s-eye vision) and Raspberry Pi (on-vehicle perception & control) communicating through custom publish-subscribe nodes.
+* Trained and deployed a Roboflow/YOLO deep learning model (~90% accuracy) on an OAK-D camera to detect the rear of vehicles and compute angular offsets for PD-based navigation.
+* Integrated LiDAR-based distance estimation and vision-based control to enable precise stopping behavior behind the disabled vehicle while reducing false positives using HSV filtering, temporal analysis, and FFT-based blink detection.
 
 **Tools:** Python, Linux, ROS2, OpenCV, Path Planning, Sensor Integration, Embedded C, Computer Vision, Deep Learning, Roboflow, YOLO, Jetson Nano, Rasberry pi, LIDAR, GPS, VESC, DC-DC Convertor, Transformer
 
