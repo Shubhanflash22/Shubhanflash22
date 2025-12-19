@@ -265,9 +265,9 @@ _Focus Areas: Machine Learning, Statistical Learning, Autonomous Systems, Energy
 | --------- | ---------------------------------- | ----- |
 | ECE 143  | PROGRAMMING FOR DATA ANALYSIS             | TBD     |
 | ECE 148   | INTRODUCTION TO AUTONOMOUS VEHICLES       | A      |
-| ECE 225A  | PROBABILITY AND STATISTICS FOR DATA SCIENCE        | TBD     |
+| ECE 225A  | PROBABILITY AND STATISTICS FOR DATA SCIENCE        | B+     |
 | ECE 269  | LINEAR ALGEBRA AND APPLICATIONS            | TBD     |
-| ECE 271A  | STATISTICAL LEARNING 1             | TBD     |
+| ECE 271A  | STATISTICAL LEARNING 1             | B+     |
 | ECE 271B  | STATISTICAL LEARNING 2             | TBD     |
 | ECE 276A  | SENSING AND ESTIMATION IN ROBOTICS             | TBD     |
 | ECE 276B  | PLANNING AND LEARING IN ROBOTICS             | TBD     |
