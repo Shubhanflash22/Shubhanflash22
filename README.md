@@ -37,6 +37,16 @@ _Focus Areas: Machine Learning, Statistical Learning, Autonomous Systems, Energy
 <summary>Click to expand for all projects</summary>
 
 ---
+### 🚜 Excavator Activity Recognition System
+**Oct 2025 – Ongoing**
+* Built an end-to-end computer vision pipeline to detect, track, and recognize excavator activities in construction site videos using YOLOv8, DeepSORT, and 3D ResNet.
+* Implemented custom idling detection via motion and signal analysis, and performed temporal activity classification (Digging, Loading, Swinging, Travelling, Idling) with a 3D ResNet-50.
+* Designed a scalable data workflow with CVAT-based annotation, clip-level dataset generation, and automated CSV reports for frame-level and segment-level analytics.
+* Produced annotated videos and detailed activity timelines, enabling quantitative analysis of equipment utilization and operational efficiency.
+
+**Tools:** Python, PyTorch, YOLOv8, OpenCV, DeepSORT, CVAT, Pandas, SciPy
+
+---
 ### 🎲 Project of ECE 225A - Prob Stats for Data Science
 **Sept 2025 – Dec 2025**
 * Built an end-to-end statistical learning pipeline to predict national happiness scores by integrating multi-source global datasets (World Happiness Report, World Bank, CO₂ emissions, population data).
