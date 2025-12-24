@@ -259,7 +259,7 @@ _Focus Areas: Machine Learning, Statistical Learning, Autonomous Systems, Energy
 </details>
 
 <details>
-<summary>Click to expand UCSD Courses (GPA - <b>3.60 out of 4.00</b>)</summary>
+<summary>Click to expand UCSD Courses (GPA - <b>3.53 out of 4.00</b>)</summary>
   
 | Code      | Course                             | Grade |
 | --------- | ---------------------------------- | ----- |
