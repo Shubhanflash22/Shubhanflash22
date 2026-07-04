@@ -269,18 +269,19 @@ _Focus Areas: Machine Learning, Statistical Learning, Autonomous Systems, Energy
 </details>
 
 <details>
-<summary>Click to expand UCSD Courses (GPA - <b>3.77 out of 4.00</b>)</summary>
+<summary>Click to expand UCSD Courses (GPA - <b>3.83 out of 4.00</b>)</summary>
   
 | Code      | Course                             | Grade |
 | --------- | ---------------------------------- | ----- |
 | ECE 143  | PROGRAMMING FOR DATA ANALYSIS             | TBD     |
 | ECE 148   | INTRODUCTION TO AUTONOMOUS VEHICLES       | A      |
 | ECE 225A  | PROBABILITY AND STATISTICS FOR DATA SCIENCE        | B+     |
+| ECE 228  | ML FOR PHYSICAL APPLICATIONS             | A     |
 | ECE 269  | LINEAR ALGEBRA AND APPLICATIONS            | TBD     |
 | ECE 271A  | STATISTICAL LEARNING 1             | B+     |
 | ECE 271B  | STATISTICAL LEARNING 2             | A      |
 | ECE 276A  | SENSING AND ESTIMATION IN ROBOTICS             | A     |
-| ECE 276B  | PLANNING AND LEARING IN ROBOTICS             | TBD     |
+| ECE 276B  | PLANNING AND LEARING IN ROBOTICS             | A     |
 | ECE 285  | DATA SCIENCE AND AI FOR SMART GRIDS             | A     |
 
 </details>
