@@ -2,13 +2,20 @@
 
 • Email: [shubhanmital@gmail.com](mailto:shubhanmital@gmail.com) 
 • GitHub: [Shubhanflash22](https://github.com/Shubhanflash22) 
-• LinkedIn: [linkedin.com/in/shubhan-mital](https://www.linkedin.com/in/shubhan-mital/)
+• LinkedIn: [linkedin.com/in/shubhan-mital](https://www.linkedin.com/in/shubhan-mital/) 
+• Portfolio: [shubhanflash22.github.io](https://shubhanflash22.github.io/)
 
 ---
 
-I am a Master’s student in **Electrical and Computer Engineering at UC San Diego**, specializing in **Machine Learning and Data Science**. I hold a **B.E. in Electrical and Electronics Engineering and MSc. in Mathematics from BITS Pilani**, and have professional experience at **Amazon Development Center and Piramal Pharma Ltd.**, where I contributed to **automation solutions, ML-based forecasting tools, and cloud-integrated data pipelines**, achieving measurable improvements in efficiency, accuracy, and operational resilience.
+My passion sits at the intersection of **mathematics, machine learning, and optimization** — I'm drawn less to using models off the shelf and more to understanding the principles that make them work, especially when that understanding can be applied to real-world constraints like energy, cost, and time.
 
-My research interests lie in leveraging **ML and Deep Learning to enhance efficiency, reliability, and sustainability** in energy systems. Key areas include **energy storage optimization, grid stability, predictive maintenance, and integration of distributed energy resources**. I have hands-on experience applying ANN, LSTM, and RNN models to optimize **Vanadium Redox Flow Batteries**, reducing power loss and operating costs. I am motivated to work in collaborative research environments to develop **data-driven solutions for smart grids, renewable integration, and energy system optimization**.
+I'm currently pursuing my **MS in Machine Learning and Data Science (ECE) at UC San Diego**, where I work with the **Yuanyuan Lab** on energy-aware scheduling for electric construction equipment. I've built a multi-stage computer vision pipeline (**YOLOv8, DeepSORT, 3D ResNet-18**) to convert 34+ hours of construction site footage into per-activity energy profiles, hitting **88.81% recognition accuracy** across activity classes. I'm now benchmarking deterministic vs. stochastic MPC formulations to schedule mobile EV charging in real time — work that's been featured by UC San Diego. Math has always been core to how I approach this: I hold an **M.Sc. in Mathematics** alongside my **B.E. in Electrical and Electronics Engineering from BITS Pilani**.
+
+Before UCSD, I spent just over a year as a **Data Scientist at Piramal Pharma**, where I owned the end-to-end lifecycle of ML forecasting models (predicting inventory stock-out/expiry risk 24 months out), built scalable data pipelines on Azure Databricks and Snowflake that cut processing time by 60%, and automated pricing workflows that reduced turnaround time by 70%. Earlier, as a **Software Development Engineer Intern at Amazon**, I built data validation and pipeline auditing tools that caught discrepancies across 5+ downstream pipelines, helping prevent losses of up to $5 million.
+
+Outside of work, I like building end-to-end systems that combine optimization with modern ML: an agentic AI tool (**LangGraph + MILP**) for residential solar and battery sizing, a multimodal attention-detection system fusing facial and audio signals for classroom engagement, and research into noise-conditioned controllability in text-to-image diffusion models.
+
+I'm always happy to talk optimization, applied ML, or anything at the intersection of the two — feel free to reach out.
 
 ---
 
@@ -19,11 +26,13 @@ My research interests lie in leveraging **ML and Deep Learning to enhance effici
 
 | Category                        | Skills / Tools                                                                   |
 | ------------------------------- | -------------------------------------------------------------------------------- |
-| **Programming Languages**       | Python, Java, C, C++, Scala, R, MATLAB, SQL, ROS, Linux                          |
-| **Frameworks & Libraries**      | Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, Hugging Face            |
-| **AI/ML Techniques**            | Computer Vision, NLP, Deep Learning, Reinforcement Learning, Predictive Modeling |
-| **Robotics & Embedded Systems** | ROS2, OpenCV, Path Planning, Sensor Integration, Embedded C                      |
-| **Cloud & Tools**               | AWS (Lambda, S3, CloudFormation), Azure (Databricks, ADF, Functions), Snowflake  |
+| **Programming Languages**       | Python, Java, C, C++, Scala, R, MATLAB, SQL, ROS/ROS2, Linux                     |
+| **Frameworks & Libraries**      | Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, Keras, PyTorch, Hugging Face, OpenCV, MediaPipe, Librosa |
+| **AI/ML Techniques**            | Computer Vision, NLP, Deep Learning, Generative & Diffusion Models, Sequence Modeling (LSTM/BiLSTM), Reinforcement Learning, Predictive Modeling |
+| **Robotics & Control**          | SLAM (VI-SLAM, ICP, Occupancy Grid Mapping), Kalman/Extended Kalman Filtering, Motion Planning (Weighted A*), Dynamic Programming, Model Predictive Control, Optimal Control (CEC/GPI), Sensor Fusion, Embedded C |
+| **Optimization & Solvers**      | Convex/Nonlinear Optimization, MILP, CasADi, IPOPT, Game Theory                  |
+| **LLMs & Agents**               | LangGraph, RAG, Ollama, vLLM, LLaMA, Whisper, Stable Diffusion (Diffusers)       |
+| **Cloud & Tools**               | AWS (Lambda, S3, CloudFormation), Azure (Databricks, ADF, Functions), Snowflake, Docker, Kubernetes, GTSAM |
 | **Software Engineering**        | Full-stack development, CI/CD pipelines, ETL, Automation                         |
 
 </details>
@@ -37,14 +46,64 @@ _Focus Areas: Machine Learning, Statistical Learning, Autonomous Systems, Energy
 <summary>Click to expand for all projects</summary>
 
 ---
-### 🚜 Excavator Activity Recognition System
+### 🚜 Excavator Activity Recognition & Energy-Aware Charging — Research at Yuanyuan Lab, UC San Diego
 **Oct 2025 – Ongoing**
-* Built an end-to-end computer vision pipeline to detect, track, and recognize excavator activities in construction site videos using YOLOv8, DeepSORT, and 3D ResNet.
-* Implemented custom idling detection via motion and signal analysis, and performed temporal activity classification (Digging, Loading, Swinging, Travelling, Idling) with a 3D ResNet-50.
-* Designed a scalable data workflow with CVAT-based annotation, clip-level dataset generation, and automated CSV reports for frame-level and segment-level analytics.
-* Produced annotated videos and detailed activity timelines, enabling quantitative analysis of equipment utilization and operational efficiency.
+* Built a multi-stage computer-vision pipeline chaining YOLOv8 detection, DeepSORT multi-object tracking, a physics-constrained finite state machine, and transfer-learned 3D ResNet-18 spatiotemporal classification with automated CVAT annotation, converting **34+ hours** of raw construction-site footage into per-subactivity energy profiles for mobile electric excavator charging dispatch.
+* Achieved **88.81%** recognition accuracy across 5 activity classes, surpassing a prior 3-class benchmark of 86.7%; applied Bayesian regression for hidden-state power estimation and built automated tooling for class-balanced clip extraction.
+* Benchmarking deterministic certainty-equivalent MPC against scenario-based stochastic MPC over a 24-hour dispatch window to produce real-time mobile charging schedules that curb on-site battery depletion, demand charges, and grid carbon impact.
 
-**Tools:** Python, PyTorch, YOLOv8, OpenCV, DeepSORT, CVAT, Pandas, SciPy
+**Tools:** Python, PyTorch, YOLOv8, 3D ResNet, DeepSORT, OpenCV, CVAT, MPC, Bayesian Regression, Pandas, SciPy
+
+---
+### 🤖 Projects of ECE 276B - Planning & Learning in Robotics
+**Apr 2026 – Jun 2026**
+* Implemented dynamic programming for the Door-Key grid problems, computing optimal action sequences across 7 known and randomized MiniGrid environments.
+* Built a 3D motion planner using weighted A* on a 26-connected grid with a parametric slab segment–AABB collision engine and forward-greedy path smoothing, clearing 7 environments (including dynamic multi-goal scenes) within strict per-goal timing budgets.
+* Solved infinite-horizon stochastic optimal control for a differential-drive robot tracking a lemniscate trajectory via Receding-Horizon Certainty Equivalent Control (CasADi/IPOPT) with slack-variable obstacle avoidance and Generalised Policy Iteration on a discretised error-state MDP.
+* **Homework:** worked through the planning & control foundations — deterministic shortest-path and label-correcting search, Markov Decision Processes with value and policy iteration, LQR, and reinforcement learning.
+
+**Tools:** Python, NumPy, CasADi, IPOPT, Matplotlib, Gym-MiniGrid
+
+---
+### 👀 Project of ECE 228 - Machine Learning for Physical Applications
+**Apr 2026 – Jun 2026**
+* Built **StayTuned**, a multimodal attention-detection system fusing a visual pipeline (MediaPipe landmarks → EAR/MAR/gaze/head-pose features → Bidirectional LSTM on DAiSEE) with an audio pipeline (Whisper transcription → ~75 acoustic features → LR/RF with speaker-aware GroupKFold) to classify students/drivers as attentive vs. distracted in real time.
+* Fused per-interval scores via grid-searched weighting (0.85 video / 0.15 audio), supporting offline batch and live webcam + microphone inference, validated against ground-truth spreadsheets.
+* Deployed a companion ESP32 + SSD1306 OLED and piezo-buzzer hardware alert for real-time attention warnings.
+* **Homework:** implemented sparse linear regression (ISTA/LASSO regularization paths, GWAS marker selection) and Poisson GLMs via maximum likelihood; compared MLP vs. Transformer models for multivariate time-series forecasting; and built Neural ODEs and Fourier Neural Operators for the 1D wave equation with super-resolution analysis.
+
+**Tools:** Python, TensorFlow, Keras, PyTorch, MediaPipe, OpenCV, Whisper, Scikit-learn, Librosa, ESP32/Arduino
+
+---
+### 🎨 Project of ECE 271B - Statistical Learning II
+**Jan 2026 – Mar 2026**
+* Researched noise-conditioned controllability and reliable random seeds in text-to-image diffusion models, building on the *All Seeds Are Not Equal* (ICLR 2025) NPNet framework.
+* Built a modular, resume-safe seed-mining pipeline generating 62k+ images with Stable Diffusion across numeracy and spatial prompt grids, with multi-GPU seed sharding, atomic writes, and OOM-fallback batching.
+* Containerized the workload with Docker (CUDA) and deployed single- and multi-GPU Kubernetes jobs with persistent storage for large-scale generation.
+* **Homework:** implemented eigenface PCA, Regularized Discriminant Analysis, and Gaussian classifiers for face recognition, and trained MLPs with backpropagation on MNIST (ReLU vs. sigmoid, SGD, learning-rate studies).
+* **Homework:** built AdaBoost with decision stumps (one-vs-all ensembles with margin analysis) and kernel SVMs (LibSVM) on MNIST.
+
+**Tools:** Python, PyTorch, Hugging Face Diffusers, Stable Diffusion, Accelerate, Docker, Kubernetes, MATLAB, LibSVM
+
+---
+### 🛰️ Projects of ECE 276A - Sensing & Estimation in Robotics
+**Jan 2026 – Mar 2026**
+* Implemented quaternion-based 3D orientation tracking from IMU data using Projected Gradient Descent on the SO(3) manifold with gyroscope-bias learning, then stitched calibrated camera frames into equirectangular panoramas.
+* Built a full 2D SLAM pipeline: differential-drive odometry, SVD-based ICP scan matching, log-odds occupancy grid mapping with Bresenham raycasting, RGB-D texture mapping, and GTSAM factor-graph optimization with loop-closure detection.
+* Developed a Visual-Inertial SLAM EKF on SE(3) fusing IMU prediction with stereo landmark updates — Shi-Tomasi + Lucas-Kanade feature tracking, stereo triangulation, a Mahalanobis innovation gate, and a numerically-verified left-perturbation SE(3) pose Jacobian with sparse joint pose-landmark covariance.
+* **Homework:** derived the core estimation theory — Bayesian and Gaussian filtering, rigid-body motion and rotations on SO(3)/SE(3) with quaternions, and the Kalman, Extended Kalman, and particle filters.
+
+**Tools:** Python, PyTorch, NumPy, SciPy, OpenCV, GTSAM
+
+---
+### ⚡ Project of ECE 285 - Data Science & AI for Smart Grids (LLMs & Agents)
+**Jan 2026 – Mar 2026**
+* Built **SolarAgent**, an agentic LLM tool (LangGraph) pairing a natural-language front-end with a MILP optimization backend to recommend residential solar PV **and battery** sizing for real San Diego households.
+* Formulated and solved a mixed-integer linear program (HiGHS) over an 8760-hour annual dispatch, jointly sizing panels and batteries from real hardware catalogs (Tesla Powerwall, Enphase, SolarEdge) under TOU/demand tariffs, roof-area limits, budgets, federal ITC, and EV charging.
+* Also built a zero-cloud LLM + TF-IDF RAG advisor (Track A) for PV sizing, batch-analyzing 30 San Diego neighbourhoods with configurable local backends (Ollama/vLLM), and evaluated the agent against fixed baselines on Kubernetes.
+* Presented a paper on RLHF / InstructGPT (*Training Language Models to Follow Instructions with Human Feedback*).
+
+**Tools:** Python, LangGraph, HiGHS (MILP), Ollama, vLLM, LLaMA, RAG (TF-IDF), NumPy, Pandas, Kubernetes
 
 ---
 ### 🎲 Project of ECE 225A - Prob Stats for Data Science
@@ -273,16 +332,18 @@ _Focus Areas: Machine Learning, Statistical Learning, Autonomous Systems, Energy
   
 | Code      | Course                             | Grade |
 | --------- | ---------------------------------- | ----- |
-| ECE 143  | PROGRAMMING FOR DATA ANALYSIS             | TBD     |
-| ECE 148   | INTRODUCTION TO AUTONOMOUS VEHICLES       | A      |
-| ECE 225A  | PROBABILITY AND STATISTICS FOR DATA SCIENCE        | B+     |
-| ECE 228  | ML FOR PHYSICAL APPLICATIONS             | A     |
-| ECE 269  | LINEAR ALGEBRA AND APPLICATIONS            | TBD     |
-| ECE 271A  | STATISTICAL LEARNING 1             | B+     |
-| ECE 271B  | STATISTICAL LEARNING 2             | A      |
-| ECE 276A  | SENSING AND ESTIMATION IN ROBOTICS             | A     |
-| ECE 276B  | PLANNING AND LEARING IN ROBOTICS             | A     |
-| ECE 285  | DATA SCIENCE AND AI FOR SMART GRIDS             | A     |
+| CSE 252A  | COMPUTER VISION I                          | TBD    |
+| ECE 143   | PROGRAMMING FOR DATA ANALYSIS              | TBD    |
+| ECE 148   | INTRODUCTION TO AUTONOMOUS VEHICLES        | A      |
+| ECE 225A  | PROBABILITY AND STATISTICS FOR DATA SCIENCE | B+    |
+| ECE 228   | ML FOR PHYSICAL APPLICATIONS               | A      |
+| ECE 269   | LINEAR ALGEBRA AND APPLICATIONS            | TBD    |
+| ECE 271A  | STATISTICAL LEARNING 1                     | B+     |
+| ECE 271B  | STATISTICAL LEARNING 2                     | A      |
+| ECE 276A  | SENSING AND ESTIMATION IN ROBOTICS         | A      |
+| ECE 276B  | PLANNING AND LEARNING IN ROBOTICS          | A      |
+| ECE 285   | DATA SCIENCE AND AI FOR SMART GRIDS        | A      |
+| ECE 285   | DEEP GENERATIVE MODELS                     | TBD    |
 
 </details>
 
