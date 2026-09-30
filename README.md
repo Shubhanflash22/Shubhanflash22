@@ -332,7 +332,7 @@ _Focus Areas: Machine Learning, Statistical Learning, Autonomous Systems, Energy
   
 | Code      | Course                             | Grade |
 | --------- | ---------------------------------- | ----- |
-| CSE 258   | Recommender Sys & Web Mining               | TBD    |
+| CSE 258   | RECOMMENDER SYS & WEB MINIING              | TBD    |
 | ECE 143   | PROGRAMMING FOR DATA ANALYSIS              | TBD    |
 | ECE 148   | INTRODUCTION TO AUTONOMOUS VEHICLES        | A      |
 | ECE 225A  | PROBABILITY AND STATISTICS FOR DATA SCIENCE | B+    |
