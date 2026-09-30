@@ -332,7 +332,7 @@ _Focus Areas: Machine Learning, Statistical Learning, Autonomous Systems, Energy
   
 | Code      | Course                             | Grade |
 | --------- | ---------------------------------- | ----- |
-| CSE 252A  | COMPUTER VISION I                          | TBD    |
+| CSE 258   | Recommender Sys & Web Mining               | TBD    |
 | ECE 143   | PROGRAMMING FOR DATA ANALYSIS              | TBD    |
 | ECE 148   | INTRODUCTION TO AUTONOMOUS VEHICLES        | A      |
 | ECE 225A  | PROBABILITY AND STATISTICS FOR DATA SCIENCE | B+    |
